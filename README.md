@@ -1,8 +1,9 @@
 # Hi there! 👋 I'm Muhammad Reza Maulana
 
 **Summary**
+<br/>
 Senior Developer with more than 10+ years of experience spanning 
-Finance, Logistics, IoT, and Smar t Home industries.
+Finance, Logistics, IoT, and Smart Home industries.
 Skilled in Web Development, Mobile Development, and Infrastructure, delivering secure and scalable
 applications.
 Experienced in Sensor Fusion R&D (LiDAR, camera, OpenCV) and custom PCB design for embedded IoT systems.
@@ -13,7 +14,7 @@ Strong background in bridging sof tware and hardware innovation to create reliab
 
 
 **Shorts**  
-Passionate about Full-Stack Development, AI/ML, and Robotics
+Passionate about Mobile Apps,Full-Stack Development, AI/ML, and Robotics
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mrezzaaa) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mrezzaaa)
