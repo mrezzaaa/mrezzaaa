@@ -1,6 +1,18 @@
 # Hi there! 👋 I'm Muhammad Reza Maulana
 
-**Computer Science at Gunadarma University**  
+**Summary**
+Senior Developer with more than 10+ years of experience spanning 
+Finance, Logistics, IoT, and Smar t Home industries.
+Skilled in Web Development, Mobile Development, and Infrastructure, delivering secure and scalable
+applications.
+Experienced in Sensor Fusion R&D (LiDAR, camera, OpenCV) and custom PCB design for embedded IoT systems.
+Strong background in bridging sof tware and hardware innovation to create reliable, high-performance solutions.  
+  
+
+<br/>  
+
+
+**Shorts**  
 Passionate about Full-Stack Development, AI/ML, and Robotics
 
 ## 🌐 Connect With Me
