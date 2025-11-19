@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Muhammad Reza Maulana
 
-**Computer Science Student at Universitas Indonesia**  
+**Computer Science at Gunadarma University**  
 Passionate about Full-Stack Development, AI/ML, and Robotics
 
 ## 🌐 Connect With Me
